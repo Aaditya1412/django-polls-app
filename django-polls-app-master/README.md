@@ -36,8 +36,8 @@ This is a Django Poll App in which you must register to vote. You can only vote 
 
 <h2>Author</h2>
 <blockquote>
-  Uddaya Gupta<br>
-  Email: uddayagupta@gmail.com
+  Aaditya Rajeev <br>
+  Email: aaditya.r1412@gmail.com
 </blockquote>
 
 <div align="center">
